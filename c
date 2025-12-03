@@ -2,5 +2,6 @@
 # Environment files
 # =========================
 # Ignore .env in backend
+ 
 .env
 *.env
